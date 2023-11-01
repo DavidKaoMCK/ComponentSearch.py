@@ -1,0 +1,53 @@
+Information
+BOM Data Date: 10/10/2023
+Master Part List version: 
+Software Version: v2.2
+Software Release Date: 10/10/2023
+
+
+User Manual for Component Search Application
+This user manual provides an overview of the Component Search application and explains how to use its features.
+
+1. Introduction
+The Component Search application is a tool for searching and modifying component data. It allows users to perform searches based on manufacturer part numbers (MFR P/N) and component items. Additionally, it provides an "About" tab with information about the application.
+
+2. Main Interface
+Upon launching the application, you will see the main interface divided into several tabs:
+
+Tab 1: MFR Search
+This tab is designed for searching component data based on Manufacturer Part Numbers (MFR P/N).
+To perform a search, enter a partial or complete MFR P/N in the "MFR P/N" text field.
+Click the search button (magnifying glass icon) to initiate the search.
+The search results will be displayed in two text boxes: "Component PMD P/N" and "ProductName and Designator."
+
+Tab 2: ALT Search
+This tab is used to search for component items.
+Enter a partial or complete item in the "Item" text field.
+Click the "Search" button to execute the search.
+The search results will be displayed in the "ALT Search" text box, including "Item," "Manufacturer Item," "Manufacturer," and "Item Description."
+
+Tab 3: About
+The "About" tab provides information about the application.
+It displays details such as the application's purpose, version, and developer's name.
+This tab is read-only, and you cannot make any changes.
+
+3. Performing Searches
+In Tab 1 (MFR Search), enter the MFR P/N you want to search for and click the search button.
+In Tab 2 (ALT Search), enter the item you want to search for and click the search button.
+The search results will be displayed in the respective text boxes.
+
+4. About Tab
+The "About" tab provides basic information about the application, including its purpose, version, and developer.
+
+5. Adjusting Tab Width
+The width of Tab 2 (ALT Search) is adjusted dynamically based on the content to ensure a clean user interface.
+
+6. Application Version
+The current version of the application is 2.1.
+
+7. Developer Information
+The application was developed by David Kao.
+
+8. Closing the Application
+To exit the application, simply close the application window.
+That concludes the user manual for the Component Search application. You can now start using the application to search for and view component data.
